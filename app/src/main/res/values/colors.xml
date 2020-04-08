@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#D6534E</color>
+    <color name="colorPrimaryDark">#B13025</color>
+    <color name="colorAccent">#941D1D</color>
+    <color name="colorWarning">#FFC107</color>
+    <color name="colorGray">#A7A7A7</color>
+    <color name="colorDanger">#8324ff</color>
+    <color name="colorRed">#FF1212</color>
+    <color name="colorSafe">#08C904</color>
+    <color name="colorOrange">#FF5722</color>
+    <color name="colorWinner">#FFC107</color>
+    <color name="colorBackground">#F2EEEEEE</color>
+</resources>
